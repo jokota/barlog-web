@@ -19,8 +19,7 @@
 </style>
 
 <script lang="ts">
-import { Component, Vue } from 'nuxt-property-decorator'
+import Vue from 'vue'
 
-@Component
-export default class Navbar extends Vue {}
+export default Vue.extend({})
 </script>

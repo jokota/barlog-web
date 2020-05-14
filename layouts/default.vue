@@ -8,8 +8,8 @@
 
 <script lang="ts">
 import Vue from 'vue'
-import Navbar from '~/components/Navbar.vue'
-import Menubar from '~/components/Menubar.vue'
+import Navbar from '@/components/Navbar.vue'
+import Menubar from '@/components/Menubar.vue'
 import { BootstrapVue, BootstrapVueIcons } from 'bootstrap-vue'
 
 Vue.use(BootstrapVue)
