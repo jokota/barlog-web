@@ -53,3 +53,11 @@ create-nuxt-app v2.15.0
 ```
 $ yarn add nuxt-property-decorator
 ```
+
+# Firebaseに対応する
+
+```
+$ yarn add firebase
+$ firebase login
+$ firebase init
+```
